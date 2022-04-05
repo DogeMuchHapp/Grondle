@@ -6,7 +6,7 @@ m&ms
 
 Ay homesickle make me wordle but with grond so i go:
 
-```markdown
+```
 from colorama import init, Fore, Back
 init()
 word = "grond"
